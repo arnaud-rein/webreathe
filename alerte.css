@@ -1,0 +1,23 @@
+.alerte 
+{
+    position: absolute;
+    top: 56px;
+    right:0;
+    width: 150px;
+    height: 150px;
+    background: red;
+    z-index: 99;
+
+}
+
+
+body 
+{
+    position :absolute;
+    top:53px;
+    height: 1500px;
+    width: 100%;
+    background: none;
+   
+    z-index: -1;
+}
